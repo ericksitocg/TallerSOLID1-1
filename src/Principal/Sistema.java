@@ -4,9 +4,10 @@
  * and open the template in the editor.
  */
 package Principal;
-import Postres.*;
+import LecheCorregido.LecheDescremada;
+import PostresCorregido.Pastel;
+import PostresCorregido.Helado;
 import Procesos.*;
-import Leche.*;
 import OtrosCorregido.*;
 /**
  *

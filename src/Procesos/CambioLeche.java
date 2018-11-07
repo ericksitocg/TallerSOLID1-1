@@ -5,8 +5,8 @@
  */
 package Procesos;
 
-import Leche.LecheDeslactosada;
-import Leche.LecheDescremada;
+import LecheCorregido.LecheDeslactosada;
+import LecheCorregido.LecheDescremada;
 
 
 /**

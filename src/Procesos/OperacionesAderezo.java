@@ -6,8 +6,8 @@
 package Procesos;
 
 import OtrosCorregido.Aderezo;
-import Postres.Pastel;
-import Postres.Helado;
+import PostresCorregido.Pastel;
+import PostresCorregido.Helado;
 
 /**
  *

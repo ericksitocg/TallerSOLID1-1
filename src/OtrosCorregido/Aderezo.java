@@ -20,6 +20,10 @@ public class Aderezo {
         return Aderezo;
     }
 
-    
-    
+    @Override
+    public String toString() {
+        return Aderezo;
+    }
+
+        
 }
