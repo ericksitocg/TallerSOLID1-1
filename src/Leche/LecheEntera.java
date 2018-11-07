@@ -7,14 +7,12 @@ package Leche;
 
 /**
  *
- * @author Pedro Mendoza
+ * @author Administrador
  */
-public class LecheDescremada implements ILeche{
+public class LecheEntera implements ILeche {
 
-   
     @Override
     public void usar() {
-        //Usando leche descremada
     }
     
 }
