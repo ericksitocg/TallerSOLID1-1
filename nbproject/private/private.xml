@@ -3,14 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/DB%20Mount/Dropbox/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Leche/LecheDescremada.java</file>
-            <file>file:/C:/DB%20Mount/Dropbox/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Procesos/CambioLeche.java</file>
-            <file>file:/C:/DB%20Mount/Dropbox/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Principal/Sistema.java</file>
-            <file>file:/C:/DB%20Mount/Dropbox/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Postres/Helado.java</file>
-            <file>file:/C:/DB%20Mount/Dropbox/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Procesos/OperacionesAderezo.java</file>
-            <file>file:/C:/DB%20Mount/Dropbox/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Postres/Pastel.java</file>
-            <file>file:/C:/DB%20Mount/Dropbox/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Otros/Aderezo.java</file>
-            <file>file:/C:/DB%20Mount/Dropbox/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Leche/LecheDeslactosada.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Procesos/SOLID/OperacionesAderezo.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/OtrosCorregido/Aderezo.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Postres/Pastel.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Postres/Helado.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/PostresCorregido/Postre.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Postres/Postre.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Procesos/SOLID/AgregaQuitaAderezos.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Procesos/OperacionesAderezo.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Otros/Aderezo.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Principal/Sistema.java</file>
+            <file>file:/C:/Users/Harold/Documents/NetBeansProjects/TallerSOLID1-1/src/Procesos/CambioLeche.java</file>
         </group>
     </open-files>
 </project-private>
