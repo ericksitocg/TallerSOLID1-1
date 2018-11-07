@@ -14,5 +14,8 @@ public class LecheEntera implements ILeche {
     @Override
     public void usar() {
     }
-    
+     @Override
+    public String toString() {
+        return "LecheEntera";
+    }
 }

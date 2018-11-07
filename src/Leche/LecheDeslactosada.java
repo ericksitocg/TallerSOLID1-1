@@ -14,5 +14,8 @@ public class LecheDeslactosada implements ILeche{
     @Override
     public void usar() {
     }
-    
+     @Override
+    public String toString() {
+        return "LecheDeslactosada";
+    }
 }

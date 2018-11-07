@@ -16,5 +16,10 @@ public class LecheDescremada implements ILeche{
     public void usar() {
         //Usando leche descremada
     }
+
+    @Override
+    public String toString() {
+        return "LecheDescremada";
+    }
     
 }

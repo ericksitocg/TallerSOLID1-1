@@ -5,6 +5,7 @@
  */
 package Postres;
 
+import Leche.ILeche;
 import java.util.ArrayList;
 import Otros.Aderezo;
 
@@ -12,30 +13,16 @@ import Otros.Aderezo;
  *
  * @author Pedro Mendoza
  */
-public class Pastel{
-    private String sabor;
-    private double precioParcial;
-    private ArrayList<Aderezo> aderezos;
+public class Pastel extends Postre{
     
-    public Pastel(String sabor){
-        aderezos= new ArrayList<>();
-        this.sabor=sabor;
-    }
     
-    public double calcularPrecioFinal(){
-        double precioFinal;
-        precioFinal=(precioParcial+(precioParcial*0.12))+(aderezos.size()*0.50);
-        return precioFinal;
-    }
-
-    public ArrayList<Aderezo> getAderezos() {
-        return aderezos;
+    public Pastel(String sabor) {
+        super(sabor);
     }
 
     @Override
     public String toString() {
-        return "Pastel{" + "sabor=" + sabor + ", precioParcial=" + precioParcial + ", aderezos=" + aderezos + '}';
+        return "Pastel{" + "sabor=" + super.getSabor() + ", precioParcial=" + super.getPrecioParcial() + ", aderezos=" + super.getAderezos() + ", leche=" + super.getLeche() + '}';
     }
-    
     
 }
