@@ -5,7 +5,7 @@
  */
 package Procesos;
 
-import Otros.Aderezo;
+import OtrosCorregido.Aderezo;
 import Postres.Pastel;
 import Postres.Helado;
 

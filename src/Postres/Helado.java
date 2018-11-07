@@ -7,7 +7,7 @@ package Postres;
 
 import Leche.ILeche;
 import java.util.ArrayList;
-import Otros.Aderezo;
+import OtrosCorregido.Aderezo;
 
 /**
  *
