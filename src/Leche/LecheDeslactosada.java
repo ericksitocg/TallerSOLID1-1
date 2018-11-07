@@ -9,10 +9,10 @@ package Leche;
  *
  * @author Pedro Mendoza
  */
-public class LecheDeslactosada{
+public class LecheDeslactosada implements ILeche{
 
+    @Override
     public void usar() {
-        //UsandoLecheDeslactosada
     }
     
 }

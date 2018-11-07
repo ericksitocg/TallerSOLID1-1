@@ -7,14 +7,9 @@ package Leche;
 
 /**
  *
- * @author Pedro Mendoza
+ * @author Administrador
  */
-public class LecheDescremada implements ILeche{
-
-   
-    @Override
-    public void usar() {
-        //Usando leche descremada
-    }
+public interface ILeche {
+    public void usar();
     
 }
