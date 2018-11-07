@@ -6,7 +6,7 @@
 package Postres;
 
 import Leche.*;
-import Otros.Aderezo;
+import OtrosCorregido.Aderezo;
 import java.util.ArrayList;
 
 /**

@@ -5,7 +5,7 @@
  */
 package Procesos.SOLID;
 
-import Otros.Aderezo;
+import OtrosCorregido.Aderezo;
 import Postres.Helado;
 import Postres.Pastel;
 

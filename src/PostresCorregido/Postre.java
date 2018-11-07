@@ -5,7 +5,7 @@
  */
 package PostresCorregido;
 
-import Otros.Aderezo;
+import OtrosCorregido.Aderezo;
 import java.util.ArrayList;
 
 /**
